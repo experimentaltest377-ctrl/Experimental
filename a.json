@@ -1,0 +1,107 @@
+{
+  "name": "a",
+  "description": "b",
+  "authors": [ { "name": "c" } ],
+  "spec": 2,
+  "plus":{
+    "version": 0,
+    "mentionLineColor": "#7dafff"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/rennpy/pyontheme/main/pyonpyon_bg.png"
+  },
+  "semanticColors": {
+    "TEXT_LINK": [ "#4bb4ff" ],
+    "TEXT_MUTED": [ "#a6b7c8" ],
+    "TEXT_NORMAL": [ "#f7faff" ],
+    "TEXT_PRIMARY": [ "#fdfeff" ],
+
+    "BACKGROUND_ACCENT": [ "#252a35" ],
+    "BACKGROUND_FLOATING": [ "#10131a" ],
+    "BACKGROUND_MESSAGE_AUTOMOD": [ "#fa777d3f" ],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [ "#fa777d7f" ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT": [ "#cdcfff3f" ],
+    "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [ "#cdcfff7f" ],
+    "BACKGROUND_MESSAGE_HOVER": [ "#121314ee" ],
+    "BACKGROUND_MENTIONED": [ "#9cc4ff3f" ],
+    "BACKGROUND_MENTIONED_HOVER": [ "#9cc4ff7f" ],
+    "BACKGROUND_MODIFIER_ACCENT": [ "#a5d0e932" ],
+    "BACKGROUND_MODIFIER_ACCENT_2": [ "#666c7c60" ],
+    "BACKGROUND_MODIFIER_ACTIVE": [ "#45556575" ],
+    "BACKGROUND_MODIFIER_HOVER": [ "#45556535" ],
+    "BACKGROUND_MODIFIER_SELECTED": [ "#455565a5" ],
+    "BACKGROUND_MOBILE_PRIMARY": [ "#08090a" ],
+    "BACKGROUND_MOBILE_SECONDARY": [ "#18191a" ],
+    "BACKGROUND_NESTED_FLOATING": [ "#0d0e0f" ],
+    "BACKGROUND_PRIMARY": [ "#030609" ],
+    "BACKGROUND_SECONDARY": [ "#171819" ],
+    "BACKGROUND_SECONDARY_ALT": [ "#202122" ],
+    "BACKGROUND_TERTIARY": [ "#272829" ],
+
+    "BG_BASE_PRIMARY": [ "#030609" ],
+    "BG_BASE_SECONDARY": [ "#171819" ],
+    "BG_BASE_TERTIARY": [ "#272829" ],
+
+    "CHAT_BACKGROUND": [ "#07080903" ],
+    "INPUT_BACKGROUND": [ "#151617" ],
+    "EMBED_BACKGROUND": [ "#30353a" ],
+    "MENTION_BACKGROUND": [ "#9cc4ff5f" ],
+
+    "MENTION_FOREGROUND": [ "7dafff" ],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [ "#151617" ],
+    "CHAT_SWIPE_TO_REPLY_BACKGROUND": [ "#24262830" ],
+    "CHAT_SWIPE_TO_REPLY_GRADIENT_BACKGROUND": [ "#07080920" ],
+
+    "SPOILER_HIDDEN_BACKGROUND": [ "#646870f6" ],
+    "SPOILER_REVEALED_BACKGROUND": [ "#64687036" ],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#151617" ],
+    "REDESIGN_BUTTON_PRESSED_BACKGROUND": [ "#7dafff" ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [ "#9cc4ff" ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#141516" ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#232425" ],
+
+    "CHAT_BORDER": [ "0a0b0cb3" ],
+
+    "CHAT_BANNER_BG": [ "0a0b0c" ],
+    "CARD_PRIMARY_BG": [ "#0a0b0c" ],
+    "CARD_PRIMARY_PRESSED_BG": [ "#748291" ],
+    "CARD_SECONDARY_BG": [ "#1d1e1f" ],
+
+    "TYPING_INDICATOR_BG": [ "070809a7" ],
+
+
+    "BACKGROUND_BASE_LOW": [ "#313338", "#ffffff" ],
+    "BACKGROUND_BASE_LOWER": [ "#2b2d31", "#f2f3f5" ],
+    "BACKGROUND_BASE_LOWEST": [ "#232428", "#ebedef" ],
+    "BACKGROUND_MOD_MUTED": [ "#4e50584d", "#80848e14" ],
+    "BACKGROUND_MOD_STRONG": [ "#4e50588a", "#80848e3d" ],
+    "BACKGROUND_MOD_SUBTLE": [ "#4e50587a", "#80848e29" ],
+
+    "BORDER_FOCUS": [ "#00aafc", "#0097f2" ],
+    "BORDER_MUTED": [ "#ffffff08", "#0000000a" ],
+
+    "CARD_BACKGROUND_DEFAULT": [ "#313338", "#ffffff" ],
+
+    "INTERACTIVE_ICON_ACTIVE": [ "#ffffff", "#060607" ],
+    "INTERACTIVE_ICON_DEFAULT": [ "#b5bac1", "#4e5058" ],
+    "INTERACTIVE_ICON_HOVER": [ "#dbdee1", "#313338" ],
+
+    "TEXT_DEFAULT": [ "#f7faff", "#313338" ],
+    "TEXT_FEEDBACK_CRITICAL": [ "#fa777b", "#a12829" ],
+    "TEXT_FEEDBACK_INFO": [ "#2eb6ff", "#006be7" ],
+    "TEXT_FEEDBACK_POSITIVE": [ "#2dc771", "#248045" ],
+    "TEXT_FEEDBACK_WARNING": [ "#f0b232", "#9a650d" ],
+    "TEXT_OVERLAY_DARK": [ "#2f3035", "#2f3035" ],
+    "TEXT_OVERLAY_LIGHT": [ "#fbfbfb", "#fbfbfb" ],
+    "TEXT_STATUS_DND": [ "#f23f43", "#da373c" ],
+    "TEXT_STATUS_IDLE": [ "#f0b232", "#af7615" ],
+    "TEXT_STATUS_OFFLINE": [ "#949ba4", "#5c5e66" ],
+    "TEXT_STATUS_ONLINE": [ "#23a55a", "#24934e" ],
+    "TEXT_STRONG": [ "#dbdee1", "#313338" ],
+    "TEXT_SUBTLE": [ "#b5bac1", "#4e5058" ]
+  },
+  "rawColors": {
+  }
+}
