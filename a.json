@@ -22,7 +22,7 @@
     "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [ "#fa777d7f" ],
     "BACKGROUND_MESSAGE_HIGHLIGHT": [ "#cdcfff3f" ],
     "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [ "#cdcfff7f" ],
-    "BACKGROUND_MESSAGE_HOVER": [ "#00ff00ee" ],
+    "BACKGROUND_MESSAGE_HOVER": [ "#00ff0050" ],
     "BACKGROUND_MENTIONED": [ "#9cc4ff3f" ],
     "BACKGROUND_MENTIONED_HOVER": [ "#9cc4ff7f" ],
     "BACKGROUND_MODIFIER_ACCENT": [ "#a5d0e932" ],
@@ -106,6 +106,7 @@
   }
 
 }
+
 
 
 
