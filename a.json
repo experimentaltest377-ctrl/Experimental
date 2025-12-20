@@ -16,7 +16,7 @@
     "TEXT_NORMAL": [ "#f7faff" ],
     "TEXT_PRIMARY": [ "#fdfeff" ],
 
-    "BACKGROUND_ACCENT": [ "#008800" ],
+    "BACKGROUND_ACCENT": [ "#ffff00" ],
     "BACKGROUND_FLOATING": [ "#666666" ],
     "BACKGROUND_MESSAGE_AUTOMOD": [ "#fa777d3f" ],
     "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [ "#fa777d7f" ],
@@ -106,6 +106,7 @@
   }
 
 }
+
 
 
 
