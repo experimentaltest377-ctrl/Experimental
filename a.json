@@ -28,8 +28,8 @@
     "BACKGROUND_MODIFIER_ACCENT": [ "#ff0000" ],
     "BACKGROUND_MODIFIER_ACCENT_2": [ "#00ff00" ],
     "BACKGROUND_MODIFIER_ACTIVE": [ "#00ffff" ],
-    "BACKGROUND_MODIFIER_HOVER": [ "#45556535" ],
-    "BACKGROUND_MODIFIER_SELECTED": [ "#455565a5" ],
+    "BACKGROUND_MODIFIER_HOVER": [ "#ffffff" ],
+    "BACKGROUND_MODIFIER_SELECTED": [ "#220022" ],
     "BACKGROUND_MOBILE_PRIMARY": [ "#00aa00" ],
     "BACKGROUND_MOBILE_SECONDARY": [ "#0000aa" ],
     "BACKGROUND_NESTED_FLOATING": [ "#ffffff" ],
@@ -38,7 +38,7 @@
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
     "BACKGROUND_TERTIARY": [ "#ffff00" ],
 
-    "BG_BASE_PRIMARY": [ "#111111" ],
+    "BG_BASE_PRIMARY": [ "#ffffff" ],
     "BG_BASE_SECONDARY": [ "#ffff00" ],
     "BG_BASE_TERTIARY": [ "#880088" ],
 
@@ -65,9 +65,9 @@
     "CHAT_BORDER": [ "00ff00" ],
 
     "CHAT_BANNER_BG": [ "ff0000" ],
-    "CARD_PRIMARY_BG": [ "#ff0000" ],
-    "CARD_PRIMARY_PRESSED_BG": [ "#748291" ],
-    "CARD_SECONDARY_BG": [ "#880000" ],
+    "CARD_PRIMARY_BG": [ "#550000" ],
+    "CARD_PRIMARY_PRESSED_BG": [ "#00ff00" ],
+    "CARD_SECONDARY_BG": [ "#0000ff" ],
 
     "TYPING_INDICATOR_BG": [ "070809a7" ],
 
@@ -106,6 +106,7 @@
   }
 
 }
+
 
 
 
