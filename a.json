@@ -103,13 +103,14 @@
     "TEXT_SUBTLE": [ "#b5bac1", "#4e5058" ]
   },
   "rawColors": {
-    "BRAND_960": "#5e5b8e",
-        "BRAND_930": "#a5a0f1",
-        "BRAND_900": "#8884cc",
-        "BRAND_860": "#8884cc"
+    "BRAND_830": "#5e5b8e",
+        "BRAND_800": "#a5a0f1",
+        "BRAND_760": "#8884cc",
+        "BRAND_730": "#8884cc"
   }
 
 }
+
 
 
 
