@@ -40,7 +40,7 @@
 
     "BG_BASE_PRIMARY": [ "#ffffff" ],
     "BG_BASE_SECONDARY": [ "#ffff00" ],
-    "BG_BASE_TERTIARY": [ "#880088" ],
+    "BG_BASE_TERTIARY": "#880088",
 
     "CHAT_BACKGROUND": [ "#07080903" ],
     "INPUT_BACKGROUND": [ "#151617" ],
@@ -103,9 +103,14 @@
     "TEXT_SUBTLE": [ "#b5bac1", "#4e5058" ]
   },
   "rawColors": {
+    "BRAND_260": "#5e5b8e",
+        "BRAND_360": "#a5a0f1",
+        "BRAND_500": "#8884cc",
+        "BRAND_560": "#8884cc"
   }
 
 }
+
 
 
 
