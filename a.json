@@ -44,7 +44,7 @@
 
     "BG_BASE_PRIMARY": [ "#ffffff" ],
     "BG_BASE_SECONDARY": [ "#ffff00" ],
-    "BG_BASE_TERTIARY": "#880088",
+    "BG_BASE_TERTIARY":[ "#880088"],
 
     "CHAT_BACKGROUND": [ "#07080903" ],
     "INPUT_BACKGROUND": [ "#00ff00" ],
@@ -114,6 +114,7 @@
   }
 
 }
+
 
 
 
