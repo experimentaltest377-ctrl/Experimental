@@ -36,7 +36,9 @@
     "BACKGROUND_PRIMARY": [ "#00ff00" ],
     "BACKGROUND_SECONDARY": [ "#a00000" ],
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
-    "BACKGROUND_TERTIARY": [ "#ffff00" ],
+    "BACKGROUND_TERTIARY": [ "#ffff00" ],"BG_BACKDROP": [
+            "#000000B2"
+        ],
 
     "BG_BASE_PRIMARY": [ "#ffffff" ],
     "BG_BASE_SECONDARY": [ "#ffff00" ],
@@ -110,6 +112,7 @@
   }
 
 }
+
 
 
 
