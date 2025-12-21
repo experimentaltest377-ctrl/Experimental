@@ -62,9 +62,9 @@
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#141516" ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#232425" ],
 
-    "CHAT_BORDER": [ "0a0b0c83" ],
+    "CHAT_BORDER": [ "00ff00" ],
 
-    "CHAT_BANNER_BG": [ "0a0b0c" ],
+    "CHAT_BANNER_BG": [ "ff0000" ],
     "CARD_PRIMARY_BG": [ "#ff0000" ],
     "CARD_PRIMARY_PRESSED_BG": [ "#748291" ],
     "CARD_SECONDARY_BG": [ "#880000" ],
@@ -106,6 +106,7 @@
   }
 
 }
+
 
 
 
