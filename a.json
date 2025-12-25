@@ -33,7 +33,7 @@
     "BACKGROUND_MOBILE_PRIMARY": [ "#0000aa" ],
     "BACKGROUND_MOBILE_SECONDARY": [ "#0000aa" ],
     "BACKGROUND_NESTED_FLOATING": [ "#ffffff" ],
-    "BACKGROUND_PRIMARY": [ "#0000aa" ],
+    "BACKGROUND_PRIMARY": [ "#ffffff" ],
     "BACKGROUND_SECONDARY": [ "#a00000" ],
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
     "BACKGROUND_TERTIARY": [ "#ffff00" ],
@@ -110,6 +110,7 @@
   }
 
 }
+
 
 
 
