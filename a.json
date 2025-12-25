@@ -33,6 +33,7 @@
     "BACKGROUND_MOBILE_PRIMARY": [ "#0000aa" ],
     "BACKGROUND_MOBILE_SECONDARY": [ "#0000aa" ],
     "BACKGROUND_NESTED_FLOATING": [ "#ffffff" ],
+    "TEXTBOX_MARKDOWN_SYNTAX": [ "#000000" ],
     "BACKGROUND_PRIMARY": [ "#ffffff" ],
     "BACKGROUND_SECONDARY": [ "#a00000" ],
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
@@ -110,6 +111,7 @@
   }
 
 }
+
 
 
 
