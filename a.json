@@ -33,7 +33,7 @@
     "BACKGROUND_MOBILE_PRIMARY": [ "#0000aa" ],
     "BACKGROUND_MOBILE_SECONDARY": [ "#0000aa" ],
     "BACKGROUND_NESTED_FLOATING": [ "#ffffff" ],
-    "INPUT_PLACEHOLDER_TEXT": [ "#000000" ],
+    "CHANNEL_ICON": [ "#000000" ],
     "BACKGROUND_PRIMARY": [ "#ffffff" ],
     "BACKGROUND_SECONDARY": [ "#220000" ],
     "BACKGROUND_SECONDARY_ALT": [ "#00ff00" ],
@@ -111,6 +111,7 @@
   }
 
 }
+
 
 
 
