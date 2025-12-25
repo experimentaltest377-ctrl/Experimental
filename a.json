@@ -36,15 +36,17 @@
     "BACKGROUND_PRIMARY": [ "#00ff00" ],
     "BACKGROUND_SECONDARY": [ "#a00000" ],
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
-    "BACKGROUND_TERTIARY": [ "#ffff00" ],"BG_BACKDROP": [
+    "BACKGROUND_TERTIARY": [ "#ffff00" ],
+    "BG_BACKDROP": [
             "#000000B2"
-        ],"CARD_BACKGROUND_DEFAULT": [
+        ],
+    "CARD_BACKGROUND_DEFAULT": [
             "#26253b"
         ],
 
     "BG_BASE_PRIMARY": [ "#ffffff" ],
     "BG_BASE_SECONDARY": [ "#ffff00" ],
-    "BG_BASE_TERTIARY":[ "#880088"],
+    "BG_BASE_TERTIARY": [ "#880088" ],
 
     "CHAT_BACKGROUND": [ "#07080903" ],
     "INPUT_BACKGROUND": [ "#00ff00" ],
@@ -114,6 +116,7 @@
   }
 
 }
+
 
 
 
