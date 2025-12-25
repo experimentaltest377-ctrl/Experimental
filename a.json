@@ -38,7 +38,7 @@
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
     "BACKGROUND_TERTIARY": [ "#ffff00" ],
     "BG_BACKDROP": [
-            "#000000B2"
+            "#000000"
         ],
     "CARD_BACKGROUND_DEFAULT": [
             "#26253b"
@@ -116,6 +116,7 @@
   }
 
 }
+
 
 
 
