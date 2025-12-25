@@ -32,7 +32,6 @@
     "BACKGROUND_MODIFIER_SELECTED": [ "#220022" ],
     "BACKGROUND_MOBILE_SECONDARY": [ "#0000aa" ],
     "BACKGROUND_NESTED_FLOATING": [ "#ffffff" ],
-    "BACKGROUND_PRIMARY": [ "#00ff00" ],
     "BACKGROUND_SECONDARY": [ "#a00000" ],
     "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
     "BACKGROUND_TERTIARY": [ "#ffff00" ],
@@ -69,7 +68,7 @@
     "CARD_SECONDARY_BG": [ "#0000ff" ],
 
     "TYPING_INDICATOR_BG": [ "070809a7" ],
-
+    "BG_BACKDROP": [ "000000" ],
 
     "BACKGROUND_BASE_LOW": [ "#313338", "#ffffff" ],
     "BACKGROUND_BASE_LOWER": [ "#2b2d31", "#f2f3f5" ],
@@ -109,6 +108,7 @@
   }
 
 }
+
 
 
 
