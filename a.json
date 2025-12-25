@@ -35,8 +35,8 @@
     "BACKGROUND_NESTED_FLOATING": [ "#ffffff" ],
     "TEXTBOX_MARKDOWN_SYNTAX": [ "#000000" ],
     "BACKGROUND_PRIMARY": [ "#ffffff" ],
-    "BACKGROUND_SECONDARY": [ "#a00000" ],
-    "BACKGROUND_SECONDARY_ALT": [ "#0000ff" ],
+    "BACKGROUND_SECONDARY": [ "#220000" ],
+    "BACKGROUND_SECONDARY_ALT": [ "#00ff00" ],
     "BACKGROUND_TERTIARY": [ "#ffff00" ],
 
     "BG_BASE_PRIMARY": [ "#ffffff" ],
@@ -111,6 +111,7 @@
   }
 
 }
+
 
 
 
